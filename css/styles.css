@@ -1,0 +1,8 @@
+.firstpage {
+  height: 600px;
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% auto;
+
+}
